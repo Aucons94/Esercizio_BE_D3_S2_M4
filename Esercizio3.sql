@@ -2,7 +2,7 @@
 -- SELECT COUNT(*) from Orders
 
 --2 
--- SELECT COUNT(*) from Employees
+-- SELECT COUNT(*) from Customers
 
 --3
 --SELECT COUNT(*) from Employees Where City='London'
